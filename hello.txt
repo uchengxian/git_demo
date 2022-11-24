@@ -1,7 +1,5 @@
  hello chengxian welcome git!
-
-
- 这个是个创建的分支
+ 这个是个创建的分支  提交后的代码
  hllo chengxian welcome git!
  hello chengxian welcome git!
  hello chengxian welcome git!
