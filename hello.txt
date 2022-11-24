@@ -2,12 +2,13 @@
 
 
  这个是个创建的分支
+ hllo chengxian welcome git!
  hello chengxian welcome git!
  hello chengxian welcome git!
  hello chengxian welcome git!
  hello chengxian welcome git!
  hello chengxian welcome git!
  hello chengxian welcome git!
- hello chengxian welcome git!
+ 我现在很想冲突怎么办  123
  hello chengxian welcome git!
 
